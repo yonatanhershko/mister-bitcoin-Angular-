@@ -4,6 +4,7 @@ import { User } from 'src/app/models/user.model'
 import { BitcoinService } from 'src/app/services/bitcoin.service.service'
 import { UserService } from 'src/app/services/user.service'
 
+
 @Component({
     selector: 'home-page',
     templateUrl: './home-page.component.html',
